@@ -1,7 +1,9 @@
 # Problema en Loterias de la Ciudad
 
 Somos parte del equipo de *Loterias de la Ciudad* y nos llega la noticia que alguien se ha ganado la lotería y se llevará un gran pozo!  
-Nuestra tarea será entonces imprimir un cheque por el monto **N** que respresenta el pozo. 
+Nuestra tarea será entonces imprimir un cheque por el monto **N** que respresenta el pozo.
+
+![paycheck](paycheck.jpg) 
 
 Sin embargo, cuando intentamos imprimir este gran cheque, encontramos un problema. El valor **N**, el cual es un entero, incluye al menos un dígito que es 4... y el 4 es un número que no funciona en nuestra impresora.
 
