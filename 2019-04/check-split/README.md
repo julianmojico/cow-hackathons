@@ -29,4 +29,4 @@ El método `public static SolutionDTO getSolution(int n)` retorna un dto conteni
 
 ## Consejos
 
-Probar con números en el ranago de: 1 < N < 10<sup>5</sup> y 1 < N < 10<sup>9</sup>
+Probar con números en el rango de: 1 < N < 10<sup>5</sup> y 1 < N < 10<sup>9</sup>
