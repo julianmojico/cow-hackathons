@@ -5,8 +5,8 @@ public class SolutionDTO {
     private int b;
 
     public SolutionDTO(int a, int b) {
-        this.a = a;
-        this.b = b;
+            this.a = a;
+            this.b = b;
     }
 
     public int getA() {
